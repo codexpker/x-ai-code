@@ -54,11 +54,6 @@ const menuItems = ref([
     label: '关于',
     title: '关于我们',
   },
-  {
-    key: '/projects',
-    label: '项目',
-    title: '项目',
-  },
 ])
 
 // 处理菜单点击
