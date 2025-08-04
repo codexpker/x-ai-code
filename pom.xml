@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xpker</groupId>
-    <artifactId>x-ai-code-backend</artifactId>
+    <artifactId>x-ai-code</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>x-ai-code-backend</name>
     <description>x-ai-code-backend</description>

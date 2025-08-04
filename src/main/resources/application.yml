@@ -5,7 +5,7 @@ server:
   port: 8436
   servlet:
     context-path: /api
-# springdoc-openapi????
+# springdoc-openapi
 springdoc:
   swagger-ui:
     path: /swagger-ui.html
@@ -17,7 +17,7 @@ springdoc:
     - group: 'default'
       paths-to-match: '/**'
       packages-to-scan: com.xpker.xaicodebackend.controller
-# knife4j???????????????
+# knife4j
 knife4j:
   enable: true
   setting:
